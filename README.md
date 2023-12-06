@@ -1,4 +1,4 @@
-"# analog-clock" 
+# Analog Clock
 
 # An analog clock is a traditional timekeeping device that displays the current time using hour, minute, and sometimes second hands, arranged on a circular dial. Here's a detailed description of the typical features of an analog clock:
 
