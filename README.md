@@ -1,6 +1,6 @@
 "# analog-clock" 
 
-An analog clock is a traditional timekeeping device that displays the current time using hour, minute, and sometimes second hands, arranged on a circular dial. Here's a detailed description of the typical features of an analog clock:
+# An analog clock is a traditional timekeeping device that displays the current time using hour, minute, and sometimes second hands, arranged on a circular dial. Here's a detailed description of the typical features of an analog clock:
 
 # Dial or Clock Face: The clock face is a circular surface that serves as the background for the time display. It is typically marked with 12 numerals representing the hours, and smaller markers or divisions indicating the minutes.
 
